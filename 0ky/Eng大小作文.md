@@ -1,3 +1,22 @@
+# 最终
+
+## 大
+
+```
+What is illustrated in the chart shows clearly the vast difference with regard to ___. According to the figures provided by the chart, one can see that ___ occupies the largest proportion, accounting for ___%. Second to it is ___, which makes up ___%. The smallest shares go to ___, ___ and ___, occupying ___% ___% and ___% respectively.
+
+The contributing factors responsible for this trend can be summarized as follows. First and foremost, this phenomenon is closely tied to ___(原因一). According to a recent Internet survey, ___(编数据). In addition, we must admit that this tendency also has a lot to do with ___(原因二).
+
+原因一: the rapid development of the economy and society.
+
+编数据的模版: According to a recent Internet survey, **a significant proportion of respondents acknowledge this trend and attribute it primarily to [填入你的原因，如：improved living standards and policy support].    
+(According to a recent Internet survey, a significant proportion of respondents acknowledge this trend and attribute it primarily to improved living standards and policy support.)
+
+原因二: the national endeavor at economic undertakings with numerous policies being maked to stimulate consumption and enhance vigor.
+
+Given the points discussed above, we can conclude with confidence that this tendency is quite positive and therefore beneficial(正面的)/(Taking into account what has been argued so far, a sound conclusion can be drawn that this tendency is nothing but a blessing/hell(正面或者负面的)). There is a possible reason to believe that this condition will go on in the foreseeable future.
+```
+
 # Eng大小作文
 
 ## 总结
