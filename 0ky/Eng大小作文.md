@@ -3,6 +3,25 @@
 ## 大
 
 ```
+
+What is illustrated in the chart shows clearly that vast changes have taken place with regard
+According to the figures provided by the chart, one can see that the number of
+has been on a steady rise all the time.In the year of
+the number was at the bottom
+cha. only about
+, while within no more mian
+years, it jumped to
+Meanwhile,
+however,
+has witnessed a sharp decline, descending from
+固定数据：
+What is illustrated in the chart shows clearly the vast difference with regard
+
+// 动态图
+What is illustrated in the chart shows clearly that the vast changes have taken place with regard to ___. According to the figures provided by the chart, one can see that the number of ___ has been on a steady rise all the time, In the year of ___, the number was at the bottom end, only about __, while within no more than __ years, it jumped to ___. Meanwhile, however, __ has witnessed a sharp decline, descending from ___ to ___.
+
+
+// 静态图
 What is illustrated in the chart shows clearly the vast difference with regard to ___. According to the figures provided by the chart, one can see that ___ occupies the largest proportion, accounting for ___%. Second to it is ___, which makes up ___%. The smallest shares go to ___, ___ and ___, occupying ___% ___% and ___% respectively.
 
 The contributing factors responsible for this trend can be summarized as follows. First and foremost, this phenomenon is closely tied to ___(原因一). According to a recent Internet survey, ___(编数据). In addition, we must admit that this tendency also has a lot to do with ___(原因二).
